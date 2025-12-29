@@ -1,11 +1,4 @@
 Hi after rmove git init from root parant (desktop)
 1) Ebi
 2) Darush
------------------------------------
-this is the second git commit after put git init in the Keivan Bolouri file
-------------------------------------------------------------------
-Hi i am in the keivan branch which i edit this file
------------
-this is master branch
-
---------this is keivan barnch
+This is master
