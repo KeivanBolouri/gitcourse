@@ -1,5 +1,13 @@
 Hi This is kone Branch this file is not avaible in the master branch it means you cant see
 
 
+
 Hi this is conflict 
 Ebi
+=======
+this file when you are in the master branch
+this is the keivan branch 
+---------------
+this is keivan branch
+
+this is resolve conflict from master branch
