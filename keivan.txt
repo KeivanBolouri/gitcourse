@@ -1,3 +1,3 @@
-Hi this is keivan bolouri 
-master branch keivan txt file 
-This edit is from one branch 10:34
+Hi after rmove git init from root parant (desktop)
+1) Ebi
+2) Darush
