@@ -1,5 +1,5 @@
 Hi after rmove git init from root parant (desktop)
 1) Ebi
 2) Darush
----g
+---
 
