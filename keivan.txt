@@ -1,5 +1,13 @@
-Hi after rmove git init from root parant (desktop)
-1) Ebi
-2) Darush
----
+
+        /\
+ |\    /  \    /|
+ | \   \  /   / |
+ |  |  \  /  |  |
+  \  \ \  / /  /
+|\__\ \\  // /__/|
+ \___--    --___/
+     /_/||\_\
+        ||
+
+
 
